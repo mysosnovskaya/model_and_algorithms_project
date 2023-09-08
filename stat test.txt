@@ -1,0 +1,241 @@
+single = 0.3
+small = 0.0
+
+            двухсторонний       >
+series11    0.0000001304        0.00000006519
+series12    0.000000001863      9.313e-10
+series21    0.0000001304        0.00000006519
+series22    0.000000001863      9.313e-10
+blocks2     0.000000001863      9.313e-10
+blocks4     0.000000001863      9.313e-10
+blocks6     0.000001816         0.0000009081
+blocks8     0.000001814         0.000000907
+blocks10    0.000001796         0.0000008979
+
+
+single = 0.3
+small = 0.3
+
+            двухсторонний       >
+series11    0.000002702         0.000001351
+series12                        9.313e-10
+series21                        0.000002967
+series22                        9.313e-10
+blocks2                         9.313e-10
+blocks4                         9.313e-10
+blocks6                         0.0000009115
+blocks8                         9.313e-10
+blocks10                        0.0000009115
+
+
+
+
+single = 0.3
+small = 0.5
+
+            >
+series11    0.000001351
+series12    0.000001351
+series21    0.000001351
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     9.313e-10
+blocks8     0.0000009121
+blocks10    0.0000009121
+
+
+
+
+
+single = 0.3
+small = 0.7
+
+            >
+series11    9.313e-10
+series12    9.313e-10
+series21    0.000002967
+series22    0.000001351
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     9.313e-10
+blocks8     9.313e-10
+blocks10    0.0000009115
+
+
+
+
+
+
+single = 0.3
+small = 1.0
+
+            >
+series11    9.313e-10
+series12    9.313e-10
+series21    9.313e-10
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     0.0000009081
+blocks8     0.000000907
+blocks10    0.0000008979
+
+
+
+
+
+single = 0.5
+small = 0.0
+
+            >
+series11    0.000002002
+series12    9.313e-10
+series21    0.000002002
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     0.0000009081
+blocks8     0.000000907
+blocks10    0.0000008979
+
+
+single = 0.5
+small = 0.3
+
+            >
+series11    0.000001351
+series12    9.313e-10
+series21    0.000004003
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     0.0000009115
+blocks8     9.313e-10
+blocks10    0.0000009115
+
+single = 0.5
+small = 0.5
+
+            >
+series11   0.000001351
+series12    9.313e-10
+series21    0.000001351
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     9.313e-10
+blocks8     0.0000009121
+blocks10    0.0000009121
+
+
+
+single = 0.5
+small = 0.7
+
+            >
+series11    9.313e-10
+series12    9.313e-10
+series21    0.000001351
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     9.313e-10
+blocks8     9.313e-10
+blocks10    0.0000009115
+
+
+
+single = 0.5
+small = 1.0
+
+            >
+series11    9.313e-10
+series12    9.313e-10
+series21    9.313e-10
+series22    9.313e-10
+blocks2     0.000000001863
+blocks4     9.313e-10
+blocks6     0.0000009081
+blocks8     0.000000907
+blocks10    0.0000008979
+
+
+
+
+
+
+single = 0.7
+small = 0.0
+
+            >
+series11    0.000001351
+series12    9.313e-10
+series21    0.000001351
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     0.0000009081
+blocks8     0.000000907
+blocks10    0.0000008979
+
+
+single = 0.7
+small = 0.3
+
+            >
+series11    9.313e-10
+series12    9.313e-10
+series21    9.313e-10
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     0.0000009115
+blocks8     9.313e-10
+blocks10    0.0000009115
+
+single = 0.7
+small = 0.5
+
+            >
+series11    9.313e-10
+series12    9.313e-10
+series21    9.313e-10
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     9.313e-10
+blocks8     0.0000009121
+blocks10    0.0000009121
+
+
+
+single = 0.7
+small = 0.7
+
+            >
+series11    9.313e-10
+series12    9.313e-10
+series21    9.313e-10
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     9.313e-10
+blocks8     9.313e-10
+blocks10    0.0000009115
+
+
+
+single = 0.7
+small = 1.0
+
+            >
+series11    0.0000009115
+series12    9.313e-10
+series21    9.313e-10
+series22    9.313e-10
+blocks2     9.313e-10
+blocks4     9.313e-10
+blocks6     0.0000009081
+blocks8     0.000000907
+blocks10    0.0000008979

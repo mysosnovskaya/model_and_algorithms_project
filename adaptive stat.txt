@@ -1,0 +1,105 @@
+lambda = 0.2 and elites = 2
+include/not include
+p-value = 0.612
+
+lambda = 0.2 and elites = 198
+include/not include
+p-value = 0.9193
+
+lambda = 0.5 and elites = 2
+include/not include
+p-value = 0.3387
+
+lambda = 0.5 and elites = 198
+include/not include
+p-value = 0.2894
+
+lambda = 0.8 and elites = 2
+include/not include
+p-value = 0.3085
+
+lambda = 0.8 and elites = 198
+include/not include
+p-value = 0.2286
+
+lambda = 0.2 and zero include
+elites = 2/198
+p-value = 0.1519
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+lambda = 0.2 and zero not include
+elites = 2/198
+p-value = 0.000345
+
+lambda = 0.5 and zero include
+elites = 2/198
+p-value = 0.3931
+
+lambda = 0.5 and zero not include
+elites = 2/198
+p-value = 0.1048
+
+lambda = 0.8 and zero include
+elites = 2/198
+p-value = 0.1579
+
+lambda = 0.8 and zero not include
+elites = 2/198
+p-value = 0.1403
+
+
+
+
+include zero and elites = 2
+lambda = 0.2/0.5
+p-value = 0.8712
+
+include zero and elites = 198
+lambda = 0.2/0.5
+p-value = 0.7611
+
+not include zero and elites = 2
+lambda = 0.2/0.5
+p-value = 0.3387
+
+not include zero and elites = 198
+lambda = 0.2/0.5
+p-value = 0.6263
+
+
+
+include zero and elites = 2
+lambda = 0.2/0.8
+p-value = 0.4522
+
+include zero and elites = 198
+lambda = 0.2/0.8
+p-value = 0.5028
+
+not include zero and elites = 2
+lambda = 0.2/0.8
+p-value = 0.7766
+
+not include zero and elites = 198
+lambda = 0.2/0.8
+p-value = 0.1579
+
+
+
+
+
+include zero and elites = 2
+lambda = 0.5/0.8
+p-value = 0.6263
+
+include zero and elites = 198
+lambda = 0.5/0.8
+p-value = 0.09592
+
+not include zero and elites = 2
+lambda = 0.5/0.8
+p-value = 0.271
+
+not include zero and elites = 198
+lambda = 0.5/0.8
+p-value = 0.3818
